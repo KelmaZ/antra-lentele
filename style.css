@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@400;500&display=swap');
+
+table {
+    margin: 50px auto;
+    border: 1px solid white;
+    font-family: Martian;
+    text-align: left;
+}
+
+.purple {
+    background: #512B81;
+    color: white;
+}
+
+.darkviolet {
+    background: #9F0D7F;
+    color: white;
+}
+
+.middleviolet {
+    background: #F79BD3;
+    color: white;
+}
+
+.betterviolet{
+    background: #C060A1;
+    color: white;
+}
